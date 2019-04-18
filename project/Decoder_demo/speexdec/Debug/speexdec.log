@@ -1,0 +1,12 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  wav_io.c
+  wave_out.c
+  speexdec.c
+F:\Documents\Visual Studio 2019\Project\SpeexDemo\src\speexdec.c(560): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Documents\Visual Studio 2019\Project\SpeexDemo\src\speexdec.c(649): warning C4244: “=”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+  skeleton.c
+  getopt1.c
+  getopt.c
+  正在生成代码...
+getopt.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  speexdec.vcxproj -> F:\Documents\Visual Studio 2019\Project\SpeexDemo\project\Decoder_demo\Debug\speexdec.exe

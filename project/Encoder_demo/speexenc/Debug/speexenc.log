@@ -1,0 +1,11 @@
+﻿  getopt.c
+  getopt1.c
+  skeleton.c
+  speexenc.c
+F:\Documents\Visual Studio 2019\Project\SpeexDemo\src\speexenc.c(407): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Documents\Visual Studio 2019\Project\SpeexDemo\src\speexenc.c(535): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  wave_out.c
+  wav_io.c
+  正在生成代码...
+getopt.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  speexenc.vcxproj -> F:\Documents\Visual Studio 2019\Project\SpeexDemo\project\Encoder_demo\Debug\speexenc.exe
