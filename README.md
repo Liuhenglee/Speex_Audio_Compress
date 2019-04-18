@@ -4,11 +4,11 @@ Introduction:
 
 A project based on the speex 1.2rc1 project, some bugs have been fixed.
 
-Runs on visual studio and can convert wav to and from SPX files.
+Runs on visual studio and can convert WAV files to and from SPX files.
 
 Additional note:
 
-Developers have added libogg and speex from the open source library integrator Vcpkg to Visual Studio.
+Developer have added libogg and speex from the open source library integrator Vcpkg of Visual Studio.
 
 Some error may be reported when the library in Vcpkg is not added.
 
